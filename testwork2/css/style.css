@@ -170,7 +170,7 @@ nav {
     text-decoration: none;
 }
 .feedback {
-    background-color: #a8a7a7;
+    background: linear-gradient(to bottom right, rgb(128, 233, 247), pink);
     padding: 80px  40px;
 }
 .active {
@@ -257,7 +257,7 @@ nav {
 
 
 .last_promo {
-    background-color: black;
+    background: linear-gradient(to bottom right, rgb(128, 233, 247), pink);
     min-height: 700px;
     padding: 70px;
 }
@@ -311,7 +311,7 @@ nav {
 .form {
     min-height: 900px;
     padding: 70px 20px;
-    background-color: #a8a7a7;
+    background: linear-gradient(to bottom right, rgb(128, 233, 247), pink);
 }
 
 .form_product_name {

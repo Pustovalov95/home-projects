@@ -1,0 +1,54 @@
+.container {
+    display: block;
+    margin: 0 auto;
+    width: 1024px;
+}
+body {
+    background: url("wood.jpg") center center/cover no-repeat;
+    height: 1080px;
+    overflow: hidden;
+}
+.text {
+    margin: 0 auto;
+    margin-top: 140px;
+    text-align: center;
+    font-size: 30px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 12px;
+}
+.input {
+    display: block;
+    padding: 5px 10px;
+    height: 80px;
+    width: 324px;
+    margin: 120px auto;
+    border: none;
+    border-radius: 22px;
+    font-size: 26px;
+    outline: none;
+    text-align: center;
+}
+.insertBtn {
+    display: block;
+    width: 160px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 22px;
+}
+.answer {
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    height: 100px;
+    display: none;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 22px;
+}
+.active {
+    display: block;
+    text-align: center;
+    align-items: center;
+}
